@@ -1,0 +1,4 @@
+camera_node:
+  ros__parameters:
+    topic: /camera/image_raw
+    queue_size: 10

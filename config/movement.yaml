@@ -1,0 +1,4 @@
+movement_node:
+  ros__parameters:
+    cmd_topic: /cmd_vel
+    speed: 0.2

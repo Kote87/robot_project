@@ -1,0 +1,4 @@
+sensor_listener:
+  ros__parameters:
+    scan_topic: /scan
+    range_threshold: 0.5
